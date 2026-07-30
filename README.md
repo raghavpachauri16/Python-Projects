@@ -115,13 +115,13 @@ Python-Tkinter-Projects/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Python-Tkinter-Projects.git
+git clone https://github.com/raghavpachauri16/Python-Projects.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd Python-Tkinter-Projects
+cd Python-Projects
 ```
 
 No external libraries are required — all three projects use only Python's standard library. On Linux, you may need to install Tkinter separately:
