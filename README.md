@@ -90,7 +90,7 @@ A basic calculator built with Tkinter for everyday arithmetic.
 # 📂 Repository Structure
 
 ```
-Python-Tkinter-Projects/
+Python-Projects/
 │
 ├── Contact-Book/
 │   ├── Contact_Book.py
